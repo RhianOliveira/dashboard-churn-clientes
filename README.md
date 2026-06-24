@@ -1,4 +1,4 @@
-# Análise de Churn em Telecomunicações (SaaS)
+# Análise de Churn em Telecomunicações
 
 ## Sobre o Projeto
 Este projeto tem como objetivo realizar a análise de retenção de clientes (Churn Analysis) para uma empresa de telecomunicações. Através de técnicas de Business Intelligence, transformamos dados brutos em insights estratégicos para apoiar a tomada de decisão.
