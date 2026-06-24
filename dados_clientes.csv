@@ -1,0 +1,21 @@
+id_cliente,nome_cliente,plano,valor_mensal,meses_ativos,tickets_suporte,atraso_pagamento,status_assinatura
+1001,João Silva,Premium,150.00,24,1,Nao,Ativo
+1002,Maria Santos,Basico,50.00,2,5,Sim,Cancelado
+1003,Carlos Oliveira,Standard,90.00,12,2,Nao,Ativo
+1004,Ana Costa,Basico,50.00,1,6,Nao,Cancelado
+1005,Pedro Martins,Premium,150.00,36,0,Nao,Ativo
+1006,Sofia Almeida,Standard,90.00,5,4,Sim,Cancelado
+1007,Tiago Fernandes,Basico,50.00,8,1,Nao,Ativo
+1008,Catarina Lima,Premium,150.00,18,2,Nao,Ativo
+1009,Rui Gomes,Basico,50.00,3,5,Sim,Cancelado
+1010,Beatriz Sousa,Standard,90.00,20,1,Nao,Ativo
+1011,Hugo Ribeiro,Basico,50.00,4,7,Sim,Cancelado
+1012,Inês Carvalho,Premium,150.00,48,0,Nao,Ativo
+1013,Miguel Pinto,Standard,90.00,7,3,Nao,Ativo
+1014,Lara Ferreira,Basico,50.00,2,4,Sim,Cancelado
+1015,Bruno Alves,Premium,150.00,15,1,Nao,Ativo
+1016,Diana Rocha,Standard,90.00,11,2,Nao,Ativo
+1017,André Mendes,Basico,50.00,6,1,Nao,Ativo
+1018,Rita Monteiro,Basico,50.00,1,5,Sim,Cancelado
+1019,Gonçalo Silva,Premium,150.00,22,2,Nao,Ativo
+1020,Margarida Dias,Standard,90.00,9,4,Nao,Cancelado
